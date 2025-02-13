@@ -26,5 +26,3 @@ This website is built to highlight the key aspects of a coffee shop, including i
 - **JavaScript** – To add interactivity and dynamic content.  
 - **Swiper.js** – For the responsive testimonials slider.  
 - **Font Awesome** – For high-quality icons.  
-
----
